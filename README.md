@@ -35,5 +35,10 @@ programming preferences, and job satisfaction.
 - Data transformation within Power BI
 - Improved dashboard design and storytelling skills
 
+## ℹ️ Note
+Due to organizational account restrictions, the Power BI dashboard could not be published to Power BI Service.
+The complete `.pbix` file is included in this repository and can be opened using Power BI Desktop.
+
+
 ## 📸 Dashboard Preview
 ![Power BI Dashboard](screenshots/Dashboard%20Screenshot.png)
