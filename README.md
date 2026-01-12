@@ -34,3 +34,6 @@ programming preferences, and job satisfaction.
 - Hands-on experience with Power BI
 - Data transformation within Power BI
 - Improved dashboard design and storytelling skills
+
+## 📸 Dashboard Preview
+![Power BI Dashboard](screenshots/Dashboard%20Screenshot.png)
